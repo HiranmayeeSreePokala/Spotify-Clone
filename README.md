@@ -1,4 +1,4 @@
-Spotify-Clone Application
+**Spotify-clone Application**
 
 
-I have html,css and Bootstrap for creating spotify clone and added some images with google fonts.
+I have used HTML,CSS and Bootstrap for creating spotify-clone and added a few images with different Google fonts.
